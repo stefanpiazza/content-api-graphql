@@ -1,6 +1,6 @@
 # content-api-graphql
 
-Graphql service for querying content-api
+GraphQL service for querying content-api
 
 ## Quickstart
 
